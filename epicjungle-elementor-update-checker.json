@@ -1,0 +1,40 @@
+{
+	"name": "EpicJungle Elementor",
+	"version": "2.0.0",
+	"download_url": "https://github.com/meumouse/epicjungle/raw/main/epicjungle-elementor.zip",
+
+	"homepage": "https://epicjunglewp.com.br/",
+	"requires": "4.5",
+	"tested": "6.0.3",
+	"last_updated": "2022-07-02 16:17:00",
+	"upgrade_notice": "",
+
+	"author": "MeuMouse.com",
+	"author_homepage": "https://meumouse.com/",
+
+	"sections": {
+		"description": "Extensões Elementor criadas para o tema WordPress de negócios multiuso EpicJungle",
+		"installation": "",
+		"changelog": "",
+		"telas": ""
+	},
+	
+	"icons" : {
+		"1x" : "",
+		"2x" : ""
+    },
+
+	"banners": {
+		"low": "",
+		"high": ""
+	},
+
+	"translations": [
+	],
+
+	"rating": 0,
+	"num_ratings": 0,
+
+	"downloaded": 0,
+	"active_installs": 0
+}
