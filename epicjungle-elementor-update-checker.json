@@ -1,7 +1,7 @@
 {
 	"name": "EpicJungle Elementor",
 	"version": "1.0.0",
-	"download_url": "https://github.com/meumouse/epicjungle-elementor/raw/main/epicjungle-elementor.zip",
+	"download_url": "https://github.com/meumouse/epicjungle-elementor/blob/main/vendor/epicjungle-elementor.zip",
 
 	"homepage": "https://epicjunglewp.com.br/",
 	"requires": "4.5",
